@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeRohan
-- 👀 I’m interested in Python, Automating, DSA, C++, Web Development.
-- 🌱 I’m currently learning Automating with Python & DSA (C++).
-- 💞️ I’m looking to collaborate on open-source projects on Python & C++.
+- 👀 I’m interested in IOS Development, SwiftUI, VisionOS.
+- 🌱 I’m currently learning SwiftUI.
+- 💞️ I’m looking to collaborate on open-source projects on SWiftUI & C++.
 - 📫 How to reach me, Twitter - @mersedeez
 
 <!---
