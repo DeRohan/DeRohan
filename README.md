@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeRohan
+- 👋 Hi, I’m Rohan
 - 👀 I’m interested in IOS Development, SwiftUI, VisionOS.
 - 🌱 I’m currently learning SwiftUI.
 - 💞️ I’m looking to collaborate on open-source projects on SWiftUI & C++.
