@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohan
-- 👀 I’m interested in IOS Development, SwiftUI, VisionOS.
-- 🌱 I’m currently learning SwiftUI.
-- 💞️ I’m looking to collaborate on open-source projects on SWiftUI & C++.
+- 👀 I’m interested in NLP Technologies, Cloud Development but open to learn anything!
+- 🌱 I’m constantly exploring new technologies and keeping myself adaptive to transitioning fields.
+- 💞️ I’m looking to collaborate on open-source projects on AI, NLP, or C++.
 - 📫 How to reach me, Twitter - @mersedeez
 
 <!---
