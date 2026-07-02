@@ -1,5 +1,8 @@
-# 💫 About Me:
-I am currently working on bulding AI Copilots at Retrocausal Inc, primilarly responsible for Backend and Infrastructure.<br>I am currently learning Docker and Containerization Technologies to scale ML Infrastructures.<br>I am always looking to build something in Finance, Learning more about Capital and Crypto markets and how we can leverage AI to recognize historical patterns and predict next steps that bring in billions in miliseconds.
+## 💫 About Me:
+
+🚀 Building AI Copilots at **Retrocausal Inc**, focused on Backend & Infrastructure.
+🐳 Currently deepening my knowledge of Docker and containerization to help scale ML infrastructure.
+📈 Exploring the intersection of AI and Finance — studying capital & crypto markets to see how ML can uncover historical patterns and drive split-second decisions.
 
 
 ## 🌐 Socials:
